@@ -1,0 +1,25 @@
+generated: '2026-07-18'
+method: searched
+source: https://www.climate-x.com/
+notes: >-
+  Climate X does not publish a public OpenAPI, so cross-cutting API standards
+  (OAuth2/OIDC/RFC9457/etc.) cannot be derived. The standards below are the
+  organisational compliance and certification programs Climate X publishes on
+  its corporate site (certificate PDFs + third-party directory listings).
+standards:
+  - id: iso-27001-2022
+    name: ISO/IEC 27001:2022 (Information Security Management)
+    conforms: true
+    evidence: https://www.climate-x.com/files/pdfs/iso27001-2022-certificate.pdf
+  - id: iso-14001-2015
+    name: ISO 14001:2015 (Environmental Management)
+    conforms: true
+    evidence: https://www.climate-x.com/files/pdfs/iso14001-2015-certificate.pdf
+  - id: b-corp
+    name: B Corporation (certified)
+    conforms: true
+    evidence: https://www.bcorporation.net/en-us/find-a-b-corp/company/climate-x/
+  - id: gdpr
+    name: EU General Data Protection Regulation
+    conforms: true
+    evidence: https://www.climate-x.com/legals/gdpr

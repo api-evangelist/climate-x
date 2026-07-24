@@ -1,0 +1,14 @@
+{
+  "repo": "climate-x",
+  "feeds": [
+    {
+      "source": "https://www.climate-x.com",
+      "feed_url": "https://www.climate-x.com",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-07-20T13:31:34Z"
+}

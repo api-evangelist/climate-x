@@ -1,0 +1,68 @@
+# Climate X
+
+> Climate X provides climate risk and adaptation intelligence for financial institutions, real estate, insurers, and their partners. Use this file to find the most useful, high-signal pages on climate-x.com and related subdomains.
+
+Key notes for LLMs and agents:
+- Preferred name: Climate X (with a space)
+- Product names: Spectra, Adapt, Carta, Adaptation Finance
+- Primary domain: https://www.climate-x.com/
+- Platform access and status are hosted on separate subdomains (see "Platforms and Status").
+
+## Start here
+- https://www.climate-x.com/ : Home and high-level positioning
+- https://www.climate-x.com/industries : Industry hub (banking, real estate, insurance, consultancies)
+- https://www.climate-x.com/resources : Resource hub
+- https://www.climate-x.com/articles : Article hub (industry insights and press releases)
+- https://www.climate-x.com/faqs : Frequently asked questions and explanations
+- https://www.climate-x.com/lets-talk : Contact and enquiry page
+
+## Products
+- https://www.climate-x.com/spectra : Spectra, Climate Risk Analytics Product overview
+- https://www.climate-x.com/spectra/features : Spectra feature set
+- https://www.climate-x.com/spectra/methodology : Spectra methodology and modelling approach
+- https://www.climate-x.com/spectra/use-cases : How Spectra is used across operational workflows
+- https://www.climate-x.com/spectra-demo : Demo and discovery for Spectra, Adapt, and Carta
+
+- https://www.climate-x.com/adapt : Adapt, Climate Adaptation & Resilience Product overview
+- https://www.climate-x.com/adapt-demo : Adapt demo and discovery
+- https://www.climate-x.com/access-adapt : Adapt access entry point
+
+- https://www.climate-x.com/carta : Carta, Asset Location Product overview
+
+- https://www.climate-x.com/adaptation-finance : Adaptation Finance Product overview
+
+## Industries
+- https://www.climate-x.com/industries/banking : Banking and financial services
+- https://www.climate-x.com/industries/real-estate : Real estate
+- https://www.climate-x.com/industries/insurance : Insurance
+- https://www.climate-x.com/industries/consultancies : Consultancies and advisory partners
+
+## Regulation and reporting
+- https://www.climate-x.com/regulation/ecb-climate-risk-management : ECB climate risk guidance and context
+- https://www.climate-x.com/regulation/sb-261 : SB 261 guidance and context
+
+## Company
+- https://www.climate-x.com/about-us : About Climate X
+- https://www.climate-x.com/values : Values
+- https://www.climate-x.com/press : Press hub
+- https://www.climate-x.com/careers : Careers
+
+## Trust and legal
+- https://www.climate-x.com/legals/privacy-policy : Privacy policy
+- https://www.climate-x.com/legals/cookies : Cookies policy
+- https://www.climate-x.com/legals/gdpr : GDPR information
+- https://www.climate-x.com/legals/terms-and-conditions : Terms and conditions
+
+## Platforms and status
+- https://spectra.climate-x.com/ : Spectra platform access (login and account management)
+- https://health.climate-x.com/ : Service status page
+
+## Optional reading (lower priority)
+- https://www.climate-x.com/articles/industry : Industry articles index
+- https://www.climate-x.com/articles/press-releases : Press releases index
+- https://www.climate-x.com/climate-risk-terminology : Climate risk terminology and definitions
+- https://www.climate-x.com/case-study-climate-risk-for-banking : Banking case study
+- https://www.climate-x.com/climate-risk-estate-case-study : Real estate case study
+- https://www.climate-x.com/rfi-guide-how-to-choose-a-climate-risk-data-provider : RFI guide for selecting a climate risk data provider
+- https://www.climate-x.com/climate-calendar-banking-2026 : Banking climate calendar (2026)
+- https://www.climate-x.com/climate-calendar-asset-management-2026 : Asset management climate calendar (2026)

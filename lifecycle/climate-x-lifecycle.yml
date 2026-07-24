@@ -1,0 +1,12 @@
+generated: '2026-07-18'
+method: searched
+source: https://www.climate-x.com/llms.txt
+notes: >-
+  Climate X gates its Spectra Enterprise API behind sales, so no public
+  versioning/deprecation policy or SLA document is available. A public service
+  status page is published.
+status_page: https://health.climate-x.com/
+versioning: null
+deprecation: null
+sla: null
+deprecated_operations: []

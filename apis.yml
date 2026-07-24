@@ -1,21 +1,51 @@
 aid: climate-x
 name: Climate-X
-description: 'Climate-X is a company surfaced as a portfolio company of gv and added to the API Evangelist
-  network as a stub for enrichment. Sector: enterprise. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: >-
+  Climate X is a London-headquartered climate risk analytics company that
+  translates physical climate hazards into financial loss metrics for banks,
+  insurers, asset managers, real estate firms, and consultancies. Its Spectra
+  product models a range of physical climate hazards across roughly 1.5 billion
+  global assets under multiple emissions scenarios and time horizons, delivering
+  asset- and portfolio-level annual loss, probability, and severity estimates via
+  a web platform, CSV export, BI tools, and an Enterprise API. Additional products
+  include Adapt (adaptation capex and ROI), Carta (global asset location and
+  exposure mapping), and Adaptation Finance. Climate X is ISO/IEC 27001 and ISO
+  14001 certified and a certified B Corporation. The Enterprise API is currently
+  gated behind sales, so no public OpenAPI, SDK, or developer portal is available.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.climate-x.com/images/page-assets/home/2025_cx_web_home_create-account.jpg
 url: https://raw.githubusercontent.com/api-evangelist/climate-x/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - gv
-x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier: profile
+x-tier-reason: enriched-from-public-surface
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Enterprise
+- Climate Risk
+- Climate Data
+- Financial Risk
+- Analytics
+- Sustainability
+- ESG
+- Real Estate
+- Insurance
+- Banking
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +55,30 @@ maintainers:
 common:
 - type: Website
   url: https://www.climate-x.com
+- type: Blog
+  url: https://www.climate-x.com/articles
+- type: Support
+  url: https://www.climate-x.com/faqs
+- type: Login
+  url: https://spectra.climate-x.com/
+- type: StatusPage
+  url: https://health.climate-x.com/
+- type: TermsOfService
+  url: https://www.climate-x.com/legals/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://www.climate-x.com/legals/privacy-policy
+- type: Compliance
+  url: conformance/climate-x-conformance.yml
+- type: Conformance
+  url: conformance/climate-x-conformance.yml
+- type: Lifecycle
+  url: lifecycle/climate-x-lifecycle.yml
+- type: DomainSecurity
+  url: security/climate-x-domain-security.yml
+- type: LLMsTxt
+  url: llms/climate-x-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
