@@ -12,6 +12,17 @@ description: >-
   exposure mapping), and Adaptation Finance. Climate X is ISO/IEC 27001 and ISO
   14001 certified and a certified B Corporation. The Enterprise API is currently
   gated behind sales, so no public OpenAPI, SDK, or developer portal is available.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
