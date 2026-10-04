@@ -54,7 +54,7 @@ tags:
 - Analytics
 - Sustainability
 - ESG
-- Real-Estate
+- Real Estate
 - Insurance
 - Banking
 tags_raw:
@@ -69,6 +69,7 @@ tags_raw:
 - Real Estate
 - Insurance
 - Banking
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
